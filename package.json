@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paris-school/webpack_bundle.git"
+    "url": "git+https://github.com/CST-education/webpack_base_bundle.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/paris-school/webpack_bundle/issues"
-  },
-  "homepage": "https://github.com/paris-school/webpack_bundle#readme",
+  "homepage": "https://CST-education.github.io/webpack_bundle#readme",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
